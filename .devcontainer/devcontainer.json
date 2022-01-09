@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/typescript-node:0-12",
+  "features": {
+    "nmemoto/dev-container-features-aws-cli/awscli": {
+      "version": "latest"
+    }
+  }
+}
